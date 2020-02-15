@@ -2,17 +2,9 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: what will we do?
+    content: 'it''s 2020, what will we do?'
     section_id: hero
     type: heroblock
-  - actions:
-      - label: Contact Me
-        url: /contact
-    component: content_block.html
-    content: Do you know what drives you?
-    section_id: about
-    title: about
-    type: contentblock
   - actions:
       - label: View Blog
         url: blog/index.html
@@ -21,6 +13,14 @@ sections:
     section_id: recent-posts
     title: posts
     type: postsblock
+  - actions:
+      - label: Contact Me
+        url: /contact
+    component: content_block.html
+    content: do you know what drives you? me neither.
+    section_id: about
+    title: about
+    type: contentblock
 menus:
   main:
     title: home
