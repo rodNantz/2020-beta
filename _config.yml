@@ -7,14 +7,14 @@ header:
   bg: dark
   has_nav: true
   has_social: true
-  profile_img: images/avatar.png
+  profile_img: /images/20191130_212104.jpg
   tagline: ...
   title: 2020 journal
 footer:
   content: '&copy; All rights reserved.'
   links:
     - new_window: true
-      text: Made with Stackbit
+      text: Made with Stackbit (and hope)
       url: 'https://www.stackbit.com'
 sass:
   indentWidth: 4
