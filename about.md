@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: ''
-img_path: /images/EFFECTS.jpg
+img_path: /images/EFFECTS - Copia.jpg
 menus:
   main:
     title: About
